@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abeng\\source\\repos\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abeng\\source\\repos\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abeng\\source\\repos\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj",
+        "projectName": "SpaceInvaders",
+        "projectPath": "C:\\Users\\abeng\\source\\repos\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj",
+        "packagesPath": "C:\\Users\\abeng\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abeng\\source\\repos\\SpaceInvaders\\SpaceInvaders\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abeng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/MartinEnglander/_packaging/MartinEnglander/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/MartinEnglander/c1903eab-d1c9-44c8-8b0c-b65ecd69f991/_packaging/Minir%C3%A4knarTestFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
